@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../absoluto"
+		},
+		{
+			"path": "../años"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../cubo"
+		},
+		{
+			"path": "../descuento"
+		},
+		{
+			"path": "../edad_mayor"
+		},
+		{
+			"path": "../porcentaje"
+		},
+		{
+			"path": "../resultado_num"
+		}
+	]
+}
